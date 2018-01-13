@@ -9,6 +9,7 @@ A list of userful weblinks
 * https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/single-shot-detectors.html
 
 ### Others
+* Better Explain Maths Formulas: https://betterexplained.com/archives/
 * Highlight, copy, and translate text from any image: https://projectnaptha.com/
 
 * Animate Login Protocol: https://docs.google.com/document/d/1nr5PpfoTCQIGoFw6xDB-9k9N2XKj2fr6RqS8Khb8TQw/edit?hl=en&authkey=CMmUg9gN
